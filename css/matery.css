@@ -242,6 +242,7 @@ mark {
 
 .bg-color {
     background-image: linear-gradient(to right, #7386c1 0%, #cee2c6 100%);
+    backdrop-filter: blur(50px);
 }
 
 .text-color {
